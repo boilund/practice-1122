@@ -6,7 +6,7 @@ This repository is for practicing git.
 
 ```
 npm install
-node app.js
+npm start
 ```
 
 You can access in localhost:4000
